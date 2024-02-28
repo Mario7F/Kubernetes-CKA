@@ -1,1 +1,1 @@
-# CKAExam
+# CKA
