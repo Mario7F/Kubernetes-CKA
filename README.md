@@ -7,3 +7,7 @@
 #### Deploying Applications 
 
 #### Scaling with Replica Sets
+
+# Notes on Kubernetes
+
+# Study Labs For CKA
