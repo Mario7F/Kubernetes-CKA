@@ -8,6 +8,6 @@
 
 #### Scaling with Replica Sets
 
-# Notes on Kubernetes
+# Study Notes on Kubernetes
 
-# Study Labs For CKA
+# Practice Labs For CKA
