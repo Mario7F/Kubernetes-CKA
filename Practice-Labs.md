@@ -21,3 +21,8 @@
 Check to see if minikube is running
 
 ![Screen Shot 2024-03-23 at 2 43 34 PM](https://github.com/Mario7F/RHEL9/assets/59115100/e0be8be3-e8da-4b98-a0e6-3e6e7f91bcd5)
+
+
+
+Reference
+https://kubernetes.io/docs/tutorials/
