@@ -1,4 +1,4 @@
-# K8 Labs
+-# K8 Labs
 
 ### Set up a Kubernetes Cluster on a VM
 
@@ -22,6 +22,9 @@ Check to see if minikube is running
 
 ![Screen Shot 2024-03-23 at 2 43 34 PM](https://github.com/Mario7F/RHEL9/assets/59115100/e0be8be3-e8da-4b98-a0e6-3e6e7f91bcd5)
 
+Stop MiniKube
+
+![Screen Shot 2024-03-25 at 7 03 34 AM](https://github.com/Mario7F/Kubernetes-CKA/assets/59115100/ebd93e7e-5fbe-46f0-b9b1-59385f232c77)
 
 
 Reference
